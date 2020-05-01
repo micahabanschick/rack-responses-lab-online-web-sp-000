@@ -14,6 +14,6 @@ class Application
     end 
     
     resp.finish
-    binding.pry
+    #binding.pry
   end 
 end
